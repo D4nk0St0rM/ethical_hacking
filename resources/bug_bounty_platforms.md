@@ -1,0 +1,23 @@
+### Platforms
+
+- [YesWeHack](https://yeswehack.com/)
+- [intigriti](https://intigriti.com/)
+- [HackerOne](https://hackerone.com/)
+- [Bugcrowd](https://bugcrowd.com/)
+- [Cobalt](https://cobalt.io/)
+- [Bountysource](https://www.bountysource.com/)
+- [Bounty Factory](https://bountyfactory.io/)
+- [Coder Bounty](http://www.coderbounty.com/)
+- [FreedomSponsors](https://freedomsponsors.org/)
+- [FOSS Factory](http://www.fossfactory.org/)
+- [Synack](https://www.synack.com/)
+- [HackenProof](https://hackenproof.com/)
+- [Detectify](https://cs.detectify.com/)
+- [Bugbountyjp](https://bugbounty.jp/)
+- [Safehats](https://safehats.com/)
+- [BugbountyHQ](https://www.bugbountyhq.com/)
+- [Hackerhive](https://hackerhive.io/)
+- [Hacktrophy](https://hacktrophy.com/)
+- [AntiHACK](https://www.antihack.me/)
+- [CESPPA](https://www.cesppa.com/)
+
