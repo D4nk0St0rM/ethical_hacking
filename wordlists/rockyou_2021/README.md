@@ -1,6 +1,6 @@
 ### Options to Download (mega.nz)
 
-- [Link](https://mega.nz/folder/aUEWFL7B#ikLMpByYfGehSoxXDEDSrA)
+- [Link](https://mega.nz/folder/OpsymJDQ#D2lCTqi6RinLRyKmk8fXyw)
 
 ```
 pass: ye6KVrSAnxEXsRm9_8QkQQ
@@ -8,13 +8,13 @@ pass: ye6KVrSAnxEXsRm9_8QkQQ
 unzip: ry2021
 ```
 
-- [rockyou2021.txt.7z.001 - 8.38 GB](https://mega.nz/folder/aUEWFL7B#ikLMpByYfGehSoxXDEDSrA/file/bBsgwRDD)
+- [rockyou2021.txt.7z.001 - 8.38 GB](https://mega.nz/file/v98AACrQ#o6Kf6vIIPNrFAJCwbFjZlRd3gSSw0QzVAo71ueX_xm8)
 
-- [rockyou2021.txt.7z.002 - 4.33 GB](https://mega.nz/folder/aUEWFL7B#ikLMpByYfGehSoxXDEDSrA/file/Hc0USbzS)
+- [rockyou2021.txt.7z.002 - 4.33 GB](https://mega.nz/file/7osAmZoB#oMIX8q2wcfaxS4unqwnR38n4RjA3fJFFlVwCczhuEYY)
 
 
 
-```
+```bash
 7za e rockyou2021.txt.7z.00
 ```
 
@@ -37,8 +37,6 @@ unzip: ry2021
 - other lists
 - multiple leaked db
 
-
-
-
+-------
 
 source: k y s 2 3 4
