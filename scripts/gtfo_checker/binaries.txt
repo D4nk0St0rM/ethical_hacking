@@ -1,0 +1,14 @@
+/usr/bin/gpasswd
+/usr/bin/chfn
+/usr/bin/pkexec
+/usr/bin/umount
+/usr/bin/less
+/usr/bin/passwd
+/usr/bin/sudo
+/usr/bin/chsh
+/usr/bin/at
+/usr/bin/fusermount
+/usr/bin/su
+/usr/bin/mount
+/usr/bin/newgrp
+/usr/sbin/docker
