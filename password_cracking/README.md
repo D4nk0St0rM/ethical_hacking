@@ -24,11 +24,26 @@ hashcat -m 1800 -a 0 -o cracked.txt hashes.txt /usr/share/wordlists/rockyou.txt
 ```
 
 #### Windows / Kerberoast
+
+> hashcat
+```
+5500 | NetNTLMv1 / NetNTLMv1+ESS
+27000 | NetNTLMv1 / NetNTLMv1+ESS (NT) 
+5600 | NetNTLMv2
+27100 | NetNTLMv2 (NT)
+1000 | NTLM
+   ```
+
 ```
 john --format=krb5tgs --wordlist=passwords_kerb.txt hashes.kerberoast
+
 hashcat -m 13100 --force -a 0 hashes.kerberoast passwords_kerb.txt
 ./tgsrepcrack.py wordlist.txt 1-MSSQLSvc~sql01.medin.local~1433-MYDOMAIN.LOCAL.kirbi
+
 ```
+
+
+
 
 #### Windows GPP from Groups.xml using gpp-decrypt
 
