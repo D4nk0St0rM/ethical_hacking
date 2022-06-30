@@ -32,7 +32,7 @@ hashcat -m 1800 -a 0 -o cracked.txt hashes.txt /usr/share/wordlists/rockyou.txt
 5600 | NetNTLMv2
 27100 | NetNTLMv2 (NT)
 1000 | NTLM
-   ```
+```
 
 ```
 john --format=krb5tgs --wordlist=passwords_kerb.txt hashes.kerberoast
