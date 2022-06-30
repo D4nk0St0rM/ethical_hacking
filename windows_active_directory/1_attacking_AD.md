@@ -1,3 +1,16 @@
+An Active Directory environment has a very critical dependency on a Domain Name System (DNS) service. 
+
+A typical domain controller in an AD will also host a DNS server that is authoritative for a given domain.
+
+An attack against Active Directory infrastructure begins with an exploit or client-side attack against a domain workstation or server followed by enumeration of the AD environment.
+
+## Main concepts of Active Directory:
+- Directory – Contains all the information about the objects of the Active directory
+- Object – An object references almost anything inside the directory (a user, group, shared folder...)
+- Domain – The objects of the directory are contained inside the domain. Inside a "forest" more than one domain can exist and each of them will have their own objects collection. 
+- Tree – Group of domains with the same root. Example: dom.local, email.dom.local, www.dom.local
+- Forest – The forest is the highest level of the organization hierarchy and is composed by a group of trees. The trees are connected by trust relationships.
+
 ### Attacking Active Directory
 
 - [password cracking](/password_cracking/README.md)

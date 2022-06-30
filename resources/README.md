@@ -1,8 +1,10 @@
 ## Lists
 - https://github.com/D4nk0St0rM/ethical_hacker_lists
 
+
 #### Meterpreter
 - [meterpreter basics](https://www.offensive-security.com/metasploit-unleashed/meterpreter-basics/)
+
 
 #### Some Gems
 - https://github.com/jhaddix?tab=repositories
@@ -58,9 +60,6 @@
 - https://github.com/Malfrats/xeuledoc
 
 
-
-
-
 #### Recon - Other Intel
 - https://crt.sh/
 - https://nitinpandey.in/ihunt/#
@@ -83,30 +82,10 @@
 - https://github.com/Tib3rius/AutoRecon
 
 
-
-
-#### apt-get install
-- https://github.com/D4nk0St0rM/kali_instance_setup/blob/main/app-install.list
-
-
-
-#### git clone
-- https://github.com/swisskyrepo/PayloadsAllTheThings
-- https://github.com/khast3x/h8mail
-- https://github.com/21y4d/nmapAutomator.git
-- https://github.com/TheRook/subbrute.git
-- https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite.git
-- https://github.com/aboul3la/Sublist3r.git
-- https://github.com/OJ/gobuster.git
-- https://github.com/AonCyberLabs/Windows-Exploit-Suggester.git
-
-
-
 #### With physical access
 - https://github.com/hak5darren/USB-Rubber-Ducky
 - https://blog.hartleybrody.com/rubber-ducky-guide/
 - https://github.com/Screetsec/Pateensy
-
 
 
 #### Scanning, sniffing, automation
@@ -134,11 +113,11 @@
 - https://github.com/shmilylty/OneForAll
 - https://github.com/tomnomnom/assetfinder
 
+
 #### Website clone
 - wget -mk -nH
 - https://github.com/imthaghost/goclone
 - https://github.com/trustedsec/social-engineer-toolkit
-
 
 
 #### Web App
@@ -169,8 +148,6 @@
 - https://github.com/swisskyrepo/PayloadsAllTheThings
 
 
-
-
 #### Network
 - nmap
 - https://github.com/21y4d/nmapAutomator.git
@@ -184,7 +161,6 @@
 - https://pentest-tools.com/information-gathering/find-virtual-hosts
 
 
-
 #### WIFI Hacking
 - https://book.hacktricks.xyz/pentesting/pentesting-network/wifi-attacks
 
@@ -195,14 +171,11 @@
 - https://github.com/Srinivas11789/PcapXray
 
 
-
 #### Code and Cloud
 - https://searchcode.com/
 - https://github.com/jordanpotti/CloudScraper
 - https://github.com/initstring/cloud_enum
 - https://github.com/projectdiscovery/cloudlist
-
-
 
 
 #### General
@@ -211,20 +184,14 @@
 - https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques
 
 
-
 #### Exploit hosting
 - https://github.com/kgretzky/pwndrop
 - https://github.com/sc0tfree/updog
 
 
-
 #### Exploit / Priv Esc
 - https://github.com/AonCyberLabs/Windows-Exploit-Suggester.git
 - https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite.git
-
-
-
-
 
 
 #### Bruteforce
@@ -234,7 +201,6 @@
 - https://github.com/InfosecMatter/default-http-login-hunter
 
 
-
 #### Clone & Capture
 - SMS
 - RFID
@@ -242,7 +208,7 @@
 - https://bishopfox.com/blog/tastic-rfid-thief-silent-deadly
 - https://hackaday.com/2013/11/03/rfid-reader-snoops-cards-from-3-feet-away/
  
- 
+
 #### Tunnels
 - https://github.com/sshuttle/sshuttle
 - https://github.com/jpillora/chisel
@@ -253,7 +219,7 @@
 - https://github.com/sysdream/ligolo
 - https://github.com/blackarrowsec/pivotnacci
  
- 
+
 #### Windows post-foothold
 - https://github.com/SnaffCon/Snaffler
 - Mimikatz
@@ -270,7 +236,7 @@
 - https://github.com/GhostPack/Seatbelt
 - https://github.com/mdsecactivebreach/Farmer
  
- 
+
 #### Windows Priv Esc
 - https://github.com/itm4n/PrivescCheck
 - https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS
@@ -339,7 +305,6 @@
 - https://github.com/liamg/traitor
 
 
- 
 #### Windows Credential Harvesting
 - https://github.com/gentilkiwi/mimikatz
 - https://github.com/GhostPack/SafetyKatz
@@ -370,6 +335,7 @@
 - https://github.com/Barbarisch/forkatz
 - https://github.com/skelsec/pypykatz
 
+
 #### Linux Credential Harvesting
 - https://github.com/huntergregal/mimipenguin
 - https://github.com/n1nj4sec/mimipy
@@ -378,7 +344,6 @@
 - https://github.com/blendin/3snake
 - https://github.com/0xmitsurugi/gimmecredz
 - https://github.com/TarlogicSecurity/tickey
- 
  
 
 #### Password lists
@@ -417,6 +382,7 @@
 - https://www.cirt.net/passwords
 - https://many-passwords.github.io/
  
+
 #### Fake upgrade
 - https://github.com/infobyte/evilgrade
  
@@ -425,11 +391,11 @@
 - https://github.com/andrew-d/static-binaries
 
 
- 
 #### Bug bounty
 - https://github.com/arkadiyt/bounty-targets-data
 - https://github.com/PhotonBolt/chaospy
  
+
 #### Tools
 - https://etherpad.org/
 - https://cryptpad.fr/drive/

@@ -1,6 +1,11 @@
 ### Initial Recon
 Summary of commands for first step recon and enum on target
 
+#### arp-scan
+
+```
+sudo arp-scan -l
+```
 
 #### nmap
 ```bash
