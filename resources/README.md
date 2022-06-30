@@ -1,6 +1,9 @@
 ## Lists
 - https://github.com/D4nk0St0rM/ethical_hacker_lists
 
+#### Meterpreter
+- [meterpreter basics](https://www.offensive-security.com/metasploit-unleashed/meterpreter-basics/)
+
 #### Some Gems
 - https://github.com/jhaddix?tab=repositories
 
