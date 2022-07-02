@@ -22,6 +22,8 @@
         - [Port 5985](https://book.hacktricks.xyz/network-services-pentesting/5985-5986-pentesting-winrm) (Windows Remote Management (WinRM) any credentials to use EvilWinRM or [crackmapexec](https://www.ivoidwarranties.tech/posts/pentesting-tuts/cme/crackmapexec-cheatsheet/)
 - Gaining access / Exploitation
     - Escalation of privilege
+        - [Windows](https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation)
+        - Linux(https://book.hacktricks.xyz/linux-hardening/linux-privilege-escalation-checklist)
         - search every directory and cat or type ```*.txt``` files
         - find next attack vector
             - additional users
