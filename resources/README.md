@@ -2,16 +2,23 @@
 - https://github.com/D4nk0St0rM/ethical_hacker_lists
 
 
-#### Meterpreter
-- [meterpreter basics](https://www.offensive-security.com/metasploit-unleashed/meterpreter-basics/)
-
-
 #### Some Gems
 - https://github.com/jhaddix?tab=repositories
 
 
 #### Infrastructure
 - https://github.com/mantvydasb/Red-Team-Infrastructure-Automation
+
+
+#### Subdomains
+- https://github.com/nsonaniya2010/SubDomainizer
+- https://github.com/Cillian-Collins/subscraper
+- https://github.com/TheRook/subbrute.git
+- https://github.com/aboul3la/Sublist3r.git
+- https://github.com/projectdiscovery/subfinder
+- https://github.com/Findomain/Findomain
+- https://github.com/shmilylty/OneForAll
+- https://github.com/tomnomnom/assetfinder
 
 
 #### Recon - OSINT - Human Exploitation
@@ -68,7 +75,7 @@
 - https://github.com/Josue87/gotator
 - https://github.com/infosec-au/altdns
 - https://github.com/blechschmidt/massdns
-- https://github.com/smicallef/spiderfoot 
+- https://github.com/smicallef/spiderfoot
 - https://github.com/lanmaster53/recon-ng
 - https://spyse.com/
 - https://github.com/jkakavas/creepy
@@ -101,17 +108,6 @@
 - https://github.com/v3n0m-Scanner/V3n0M-Scanner
 - https://github.com/zdresearch/OWASP-Nettacker
 - https://github.com/rvrsh3ll/SharpSMBSpray
- 
-
-#### Subdomains
-- https://github.com/nsonaniya2010/SubDomainizer
-- https://github.com/Cillian-Collins/subscraper
-- https://github.com/TheRook/subbrute.git
-- https://github.com/aboul3la/Sublist3r.git
-- https://github.com/projectdiscovery/subfinder
-- https://github.com/Findomain/Findomain
-- https://github.com/shmilylty/OneForAll
-- https://github.com/tomnomnom/assetfinder
 
 
 #### Website clone
@@ -207,7 +203,7 @@
 - https://scund00r.com/all/rfid/tutorial/2018/07/12/rfid-theif-v2.html
 - https://bishopfox.com/blog/tastic-rfid-thief-silent-deadly
 - https://hackaday.com/2013/11/03/rfid-reader-snoops-cards-from-3-feet-away/
- 
+
 
 #### Tunnels
 - https://github.com/sshuttle/sshuttle
@@ -218,7 +214,7 @@
 - https://github.com/klsecservices/rpivot
 - https://github.com/sysdream/ligolo
 - https://github.com/blackarrowsec/pivotnacci
- 
+
 
 #### Windows post-foothold
 - https://github.com/SnaffCon/Snaffler
@@ -235,7 +231,7 @@
 - https://github.com/BloodHoundAD/BloodHound
 - https://github.com/GhostPack/Seatbelt
 - https://github.com/mdsecactivebreach/Farmer
- 
+
 
 #### Windows Priv Esc
 - https://github.com/itm4n/PrivescCheck
@@ -319,7 +315,7 @@
 - https://github.com/djhohnstein/SharpWeb
 - https://github.com/moonD4rk/HackBrowserData
 - https://github.com/mwrlabs/SharpClipHistory
-- https://github.com/0x09AL/RdpThief 
+- https://github.com/0x09AL/RdpThief
 - https://github.com/chrismaddalena/SharpCloud
 - https://github.com/djhohnstein/SharpChromium
 - https://github.com/rxwx/chlonium
@@ -344,7 +340,7 @@
 - https://github.com/blendin/3snake
 - https://github.com/0xmitsurugi/gimmecredz
 - https://github.com/TarlogicSecurity/tickey
- 
+
 
 #### Password lists
 - Rockyou2021
@@ -381,12 +377,12 @@
 - https://github.com/danielmiessler/SecLists/blob/master/Passwords/Default-Credentials/default-passwords.csv
 - https://www.cirt.net/passwords
 - https://many-passwords.github.io/
- 
+
 
 #### Fake upgrade
 - https://github.com/infobyte/evilgrade
- 
- 
+
+
 #### Binaries
 - https://github.com/andrew-d/static-binaries
 
@@ -394,7 +390,7 @@
 #### Bug bounty
 - https://github.com/arkadiyt/bounty-targets-data
 - https://github.com/PhotonBolt/chaospy
- 
+
 
 #### Tools
 - https://etherpad.org/
@@ -417,7 +413,7 @@
 - Leaklookup
 - EmailRep
 - scylla.sh
-- Zoopla 
+- Zoopla
 - Companies house
 - wpvulndb
 - snusbase
@@ -434,8 +430,8 @@
 
 #### OSINT
 - Recorded Future
-- Metagoofil 
-- Google Dorks / The Google Hacking Database 
+- Metagoofil
+- Google Dorks / The Google Hacking Database
 - OSINT Framework
 - Checkusernames
 - Security trails API

