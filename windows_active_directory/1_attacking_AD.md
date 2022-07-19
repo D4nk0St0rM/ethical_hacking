@@ -15,6 +15,11 @@ An attack against Active Directory infrastructure begins with an exploit or clie
 
 - [password cracking](/password_cracking/README.md)
 - [Adam Toscher - Top 5 ways](https://adam-toscher.medium.com/top-five-ways-i-got-domain-admin-on-your-internal-network-before-lunch-2018-edition-82259ab73aaa)
+- [Enum AD infra](https://medium.com/@Shorty420/enumerating-ad-98e0821c4c78)
+- [Automate AD enum](https://infosecwriteups.com/automating-ad-enumeration-with-frameworks-f8c7449563be)
+- [kerberoasting](https://medium.com/@Shorty420/kerberoasting-9108477279cc)
+
+
 
 #### Network scan
 ```
